@@ -7,7 +7,7 @@
 
 ## Kdy a jak?
 - přihlašte se k danému návrhovému vzoru (issue) tak, že ho okomentujete - první komentář ho bere
-- 19. 11. a 26. 11. budou na přednáškách a cvičeních probíhat Vaše prezentace
+- 19.11. a 26.11. budou na přednáškách a cvičeních probíhat Vaše prezentace
 
 ## Zdroje
 - https://sourcemaking.com/design_patterns/
